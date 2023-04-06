@@ -10,7 +10,7 @@
     "require": {
         "php": "^8.0",
         "blade-ui-kit/blade-heroicons": "^1.2",
-        "filament/support": "self.version",
+        "filament/support": "^2.17",
         "illuminate/contracts": "^8.6|^9.0|^10.0",
         "illuminate/filesystem": "^8.6|^9.0|^10.0",
         "illuminate/notifications": "^8.6|^9.0|^10.0",
