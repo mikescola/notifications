@@ -7,7 +7,7 @@ import {
 
 window.NotificationAction = NotificationAction
 window.NotificationActionGroup = NotificationActionGroup
-window.Notification = Notification
+window.FilamentNotification = Notification
 
 export default (Alpine) => {
     Alpine.plugin(NotificationComponentAlpinePlugin)

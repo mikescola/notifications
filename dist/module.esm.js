@@ -600,7 +600,7 @@ var ActionGroup = class {
 // packages/notifications/resources/js/index.js
 window.NotificationAction = Action;
 window.NotificationActionGroup = ActionGroup;
-window.Notification = Notification;
+window.FilamentNotification = Notification;
 var js_default = (Alpine) => {
   Alpine.plugin(notification_default);
 };
